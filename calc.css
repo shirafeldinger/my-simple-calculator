@@ -1,0 +1,52 @@
+.container {
+  border: 1px solid #d4d3d3;
+  border-radius: 8px;
+  font-family: arial, sans-serif;
+  box-sizing: border-box;
+  margin-top: 10%;
+}
+
+.buttonKey {
+  color: #202124;
+  border: 1px solid #d4d3d3;
+  border-radius: 4px;
+  font-size: 14px;
+  box-sizing: border-box;
+  background: #f1f3f4;
+  margin: 3px;
+  width: 100%;
+}
+
+#textview {
+  font-size: 25px;
+  border: 1px solid #d8d4d4;
+  border-radius: 6px;
+  height: 80px;
+  text-align: right;
+  direction: ltr;
+  padding: 25px 15px;
+}
+.operator {
+  border: 1px solid #dfe1e5;
+  background: #dfe1e5;
+  border-radius: 4px;
+  margin: 3px;
+  width: 100%;
+}
+
+#equal {
+  background: #4285f4;
+  color: #fff;
+  border: 1px solid #4285f4;
+  border-radius: 4px;
+}
+
+h1 {
+  text-align: center;
+  margin: 3px;
+  color: #807d7d;
+}
+
+button:hover {
+  background: #dddcdc;
+}
